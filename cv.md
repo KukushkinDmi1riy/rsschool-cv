@@ -12,8 +12,8 @@
  3. GRID
  4. Bootstrap 4
 * JS
- 1. React
- 2. Vue
+ 1. React + Redux
+ 2. Vue + Vuex
  3. Angular
 
 ## Experience:
