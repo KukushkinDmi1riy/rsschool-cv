@@ -17,7 +17,7 @@
  3. Angular
 
 ## Experience:
-### I have no commercial experience, but I've PET project. I've finished [ITProger](https://itproger.com/view-diplom/3e0e5c89254b9a711dc7cccbd6d01d85) front-end develover course and some [Stepik](https://stepik.org/cert/19721) courses like this.
+### I have no commercial experience, but I've PET project. I've finished [ITProger](https://itproger.com/view-diplom/3e0e5c89254b9a711dc7cccbd6d01d85) front-end develover course and some [Stepik](https://stepik.org/cert/197214) courses like this.
 ### My project could be seen in main link https://github.com/KukushkinDmi1riy
 
 ### English level:
