@@ -10,9 +10,8 @@
  1. SCSS
  2. LESS
  3. GRID
- 4. Bootstrap
+ 4. Bootstrap 4
 * JS
  1. React
  2. Vue
  3. Angular
-  
