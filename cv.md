@@ -15,3 +15,12 @@
  1. React
  2. Vue
  3. Angular
+
+## Experience:
+### I have no commercial experience, but I've PET project. I've finished [ITProger](https://itproger.com/view-diplom/3e0e5c89254b9a711dc7cccbd6d01d85) front-end develover course and some [Stepik](https://stepik.org/cert/19721) courses like this.
+### My project could be seen in main link https://github.com/KukushkinDmi1riy
+
+### English level:
+### I've passed [FCE](https://hhcdn.ru/photo/490510045.jpeg?t=1600334903&h=N_CX1aMBXw27Szuy_8q5HQ)
+
+### My email 777Dmitrj@gmail.com
